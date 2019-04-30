@@ -6,9 +6,9 @@ show how you can have fun looking at open source data to answer real questions a
 where you live or work. Here, I explored crime stats from Cambridge to answer various
 questions like what are the top crimes, when do they occur, and where. Hope you enjoy! <br>
 
-It is mostly R statistical code information in the form of R markdown 
-(RMD) notebook along with html output, and csv (data files. Just pay attention to 
-file names and you should be fine.<br>
+It is mostly R statistical code information in the form of a R markdown 
+(Rmd) notebook along with html output, and a csv (data file). Just pay attention to 
+file names and you should be fine. <br>
 
 Alrighty then, good luck and hope the material can be of use. <br>
 
@@ -27,6 +27,10 @@ R libraries pointed out in the code. <br>
 
 You will only need appropriate access numerical software like 
 R. <br>
+
+Crime data from Cambridge police site located 
+[here](https://data.cambridgema.gov/Public-Safety/Crime-Reports/xuad-73uj). 
+Note the data used in the notebook is supplied as a CSV in the repo. <br>
 
 
 ### Installing
@@ -58,7 +62,7 @@ We use [Git](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Lance Hester ** - *Initial work* - [SOASTA DSWB Gitlab](https://git.soasta.com/)
+* **Lance Hester ** - *Initial work* - [law-orderCambridgeMA](https://github.com/beenlanced/law-orderCambridgeMA)
 
 
 ## License
