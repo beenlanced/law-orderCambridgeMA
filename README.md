@@ -1,10 +1,14 @@
-# A2
+# Law&Order Cambridge
 
 This repository contains code examples, text files, and other general materials related
-to Adaptive Acceleration (A2) Data Analysis Work. <br>
+to an Exploratory Data Analysis (EDA) of Cambridge, MA crime statistics. Its intent is 
+show how you can have fun looking at open source data to answer real questions about
+where you live or work. Here, I explored crime stats from Cambridge to answer various
+questions like what are the top crimes, when do they occur, and where. Hope you enjoy! <br>
 
-It is a hodgepodge of different topics data analysis tool scripts, 
-so be warned. Just pay attention to file names.<br>
+It is mostly R statistical code information in the form of R markdown 
+(RMD) notebook along with html output, and csv (data files. Just pay attention to 
+file names and you should be fine.<br>
 
 Alrighty then, good luck and hope the material can be of use. <br>
 
@@ -14,21 +18,20 @@ Alrighty then, good luck and hope the material can be of use. <br>
 Nothing really fancy here to mention. Just pull files as needed and run the code or
 peruse the material for information purposes. <br>
 
+You will need the latest R computing code to run the examples and to obtain the relevant 
+R libraries pointed out in the code. <br>
+
+
 
 ### Prerequisites
 
-You will only need appropriate access to machines, numerical software like 
-Julia, R, Python, and Juypter notebooks, and set-up of
-possible ssh keys. If you are in the DSWB, these steps are assumed to have occurred
-already.<br>
-
-Please go [here](https://git.soasta.com/wiki/dswb/wikis/home) for more information <br>
-
+You will only need appropriate access numerical software like 
+R. <br>
 
 
 ### Installing
 
-Lucky you.. nothing to install!
+Just R and maybe R studio or other variant to read the .Rmd file.
 
 
 
@@ -39,12 +42,8 @@ No deployment required either!
 
 ## Files and other code was built with and using:
 
-* [ATOM](https://atom.io) - Text editor jazzed up with Juno to run Julia
-* [DSWB](https://git.soasta.com/) - The Data Science Work Bench code from SOASTA
-* [Julia](https://julialang.org) - Julia, the high performance dynamic programming language
-* [Jupyter](https://jupyter.org/) - Jupyter Notebooks
-* [Python](https://www.python.org/) - The Python Software Foundation
 * [R](https://www.r-project.org/) - The R project for Statistical Computing
+* [R-studio](https://www.rstudio.com/) - R Studio
 
 * **AND LOVE :-P**
 
@@ -67,6 +66,8 @@ We use [Git](http://semver.org/) for versioning.
 N/A
 
 
-## Acknowledgments
+## Acknowledgments and Inspirations for this Code
+* [https://towardsdatascience.com/exploring-clustering-and-mapping-torontos-crimes-96336efe490f](https://towardsdatascience.com/exploring-clustering-and-mapping-torontos-crimes-96336efe490f)
+* [https://towardsdatascience.com/spotifys-this-is-playlists-the-ultimate-song-analysis-for-50-mainstream-artists-c569e41f8118](https://towardsdatascience.com/spotifys-this-is-playlists-the-ultimate-song-analysis-for-50-mainstream-artists-c569e41f8118)
+* [https://jhu-advdatasci.github.io/2018/lectures/12-being-skeptical.html](https://jhu-advdatasci.github.io/2018/lectures/12-being-skeptical.html)
 
-* Appreciate all the good folks in the SOASTA DSWB group and Akamai A2
